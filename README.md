@@ -6,7 +6,7 @@ Laravel Messages is a very simple demo app to show a Messages API integration wi
 
 ## Welcome to Vonage
 
-If you're new to Vonage, you can [sign up for an account](https://dashboard.nexmo.com/sign-up?utm_source=DEV_REL&utm_medium=github&utm_campaign=laravel-messages) and get some free credit to get you started.
+If you're new to Vonage, you can [sign up for an account](https://dashboard.nexmo.com/sign-up) and get some free credit to get you started.
 
 ## Set Up the Project
 

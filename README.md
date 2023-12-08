@@ -2,7 +2,7 @@
 
 ![](VonagePOE_Primary.png)
 
-Laravel Messages is a very simple demo app to show a Messages API integration with Laravel 7. It receives and responds to WhatsApp messages, sends Messages to a whitelisted number, and logs the incoming status events.
+Laravel Messages is a very simple demo app to show a Messages API integration with Laravel 10. It receives and responds to WhatsApp messages, sends Messages to a whitelisted number, and logs the incoming status events.
 
 ## Welcome to Vonage
 
